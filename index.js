@@ -2,7 +2,7 @@ import express from "express";
 import hallRouter from "./Routers/hallBooking.Router.js";
 
 const app = express();
-const PORT = 7777;
+const PORT = 5000;
 
 app.use(express.json());
 
