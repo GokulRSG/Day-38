@@ -53,9 +53,7 @@ app.get("/", (req, res) => {
 
     </ul> 
     </div>
-
-  Documentation : <button><a style="text-decoration:none; color:#3c4043" target="_blank" href="https://github.com/manojconcept/hallbooking-ss/blob/main/Readme.md">https://github.com/manojconcept/hallbooking-ss/blob/main/Readme.md</a></button>
-        
+  Documentation : <button><a style="text-decoration:none; color:#3c4043" target="_blank" href="https://github.com/GokulRSG/Day-38/blob/main/Readme.md">Read More</a></button>
     </body>
     </html>
 
